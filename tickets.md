@@ -1,11 +1,11 @@
 ---
  layout: page
  title: Tickets
- redirect: https://www.picatic.com/mmmcheese
+ redirect: https://whiskydev.tickit.com
 ---
 
 You should be forwarded soon.
 
 If you aren't, you can [click here][1] to get to the [Tickets][1].
 
-[1]: https://www.picatic.com/mmmcheese
+[1]: https://whiskydev.tickit.ca
