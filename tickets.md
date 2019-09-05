@@ -1,7 +1,7 @@
 ---
  layout: page
  title: Tickets
- redirect: https://whiskydev.tickit.com
+ redirect: https://whiskydev.tickit.ca
 ---
 
 You should be forwarded soon.
